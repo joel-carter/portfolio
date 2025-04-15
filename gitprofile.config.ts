@@ -39,7 +39,7 @@ const CONFIG = {
           title: 'Xamarin mobile app',
           description:
             'Xamarin (C#) iOS and Android application for real world company.',
-          imageUrl: 'https://ibb.co/nM4rn3zc',
+          imageUrl: 'https://i.ibb.co/b5Y12HzB/Engie-maintenance-app.png',
           link: '',
         },
       ],
